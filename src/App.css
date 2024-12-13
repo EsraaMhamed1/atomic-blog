@@ -33,12 +33,12 @@ body {
 section {
   max-width: 1140px;
   margin: 0 auto;
+  
 }
 
 header {
   margin-bottom: 32px;
   font-weight: bold;
-
   justify-content: space-between;
   display: flex;
 }
@@ -48,6 +48,7 @@ h1 {
   display: flex;
   gap: 8px;
   align-items: center;
+  
 }
 
 h1 span {
@@ -75,6 +76,7 @@ header div {
 
 header button {
   font-size: 14px;
+  
 }
 
 form {
